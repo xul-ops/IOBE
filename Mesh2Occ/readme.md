@@ -1,8 +1,8 @@
-## OB Generation
+# OB Generation
 
 
 
-### 1.Tool Overview
+## 1. Tool Overview
 
 This repository contains two main components:
 
@@ -20,11 +20,9 @@ This repository contains two main components:
 </p>
 
 
-### 
 
-### 2. **Blender-based Scene Generator**
-
-###  
+## 2. **Blender-based Scene Generator**
+ 
 
 This part of the code benefits from the [3D-FUTURE ToolBox](https://github.com/3D-FRONT-FUTURE/3D-FUTURE-ToolBox).
 
@@ -49,7 +47,7 @@ python run_exrot_blender.py
 
 
 
-### Mesh2OB
+## 3. Mesh2OB
 
 **Run the definition**
 
