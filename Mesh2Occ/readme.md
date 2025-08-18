@@ -16,7 +16,7 @@ This repository contains two main components:
 
 
 <p align="center">
-<img src="https://github.com/xul-ops/IOBE/Mesh2Occ/data/example.png" width="1490px" alt="occ_vis">
+<img src="[https://github.com/xul-ops/IOBE/Mesh2Occ/data/example.png](https://github.com/xul-ops/IOBE/blob/main/Mesh2Occ/data/example.png)" width="1490px" alt="occ_vis">
 </p>
 
 
