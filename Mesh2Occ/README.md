@@ -35,7 +35,7 @@ This part of the code benefits from the [3D-FUTURE ToolBox](https://github.com/3
 **2. Modify the configuration file**
 
 - Open `utils/configs.py`, and set the parameter `blender_path` to your local Blender installation path.
-- Additional Blender-related variables can be found in both `configs.py` and `render_scene.py`.
+- Additional Blender-related variables can be found in both `utils/configs.py` and `render_scene.py`.
 
 **3. Run the pipeline**
 
@@ -59,6 +59,7 @@ Main tools:
 **Run the definition**
 
 ```
+# configs.py: use_down_sampling = False  # set True to reproduce paper results
 python geocc_discrete_buffer.py
 ```
 
