@@ -16,7 +16,7 @@ This repository contains two main components:
 
 
 <p align="center">
-<img src="data/example.png" width="1490px" alt="occ_vis">
+<img src="data/example.png" width="666px" alt="occ_vis">
 </p>
 
 
@@ -34,8 +34,7 @@ This part of the code benefits from the [3D-FUTURE ToolBox](https://github.com/3
 
 **2. Modify the configuration file**
 
-- Open `utils/configs.py`.
-- Set the parameter `blender_path` to your local Blender installation path.
+- Open `utils/configs.py`, and set the parameter `blender_path` to your local Blender installation path.
 - Additional Blender-related variables can be found in both `configs.py` and `render_scene.py`.
 
 **3. Run the pipeline**
@@ -49,11 +48,7 @@ python run_exrot_blender.py
 
 ## 3. Mesh2OB
 
-This part of the code takes camera projection matrices and mesh OBJ files as input, and outputs:
-
-- Occlusion Boundary maps (OB)
-
-- Occlusion Orientation maps (OO)
+This part of the code takes the camera projection matrix and mesh OBJ files as input, and outputs: occlusion boundary maps (OB), occlusion orientation maps (OO), etc. 
 
 Main tools:
 
