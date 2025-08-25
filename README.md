@@ -8,6 +8,8 @@ This repository contains four sub-repositories:
 3. **MS<sup>3</sup>PE** – Network, training, and evaluation code.
 4. **GUI** – GUI tool for interactive annotation.
 
+Gmail: xulintaofr@gmail.com
+
 If our project is helpful for your research, please consider citing:
 ```bibtex
 @article{xu2024iobe,
@@ -16,3 +18,4 @@ If our project is helpful for your research, please consider citing:
   journal={arXiv preprint arXiv:2408.15038},
   year={2024}
 }
+
