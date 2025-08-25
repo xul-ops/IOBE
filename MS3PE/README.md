@@ -6,6 +6,10 @@ This repository contains the PyTorch implementation of our proposed framework MS
 - **`mtorl/`**: network and training code.
 - **`evaTools/`**: MATLAB evaluation code (verified under MATLAB 2022b).
 
+<p align="center">
+<img src="pipeline.png" width="666px" alt="pipeline">
+</p>
+
 ------
 
 ## Dependencies
