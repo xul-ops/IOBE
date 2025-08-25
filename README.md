@@ -16,5 +16,3 @@ If our project is helpful for your research, please consider citing:
   journal={arXiv preprint arXiv:2408.15038},
   year={2024}
 }
-
-
