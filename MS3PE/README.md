@@ -6,8 +6,9 @@ This repository contains the PyTorch implementation of our proposed framework MS
 - **`mtorl/`**: network and training code.
 - **`evaTools/`**: MATLAB evaluation code (verified under MATLAB 2022b).
 
+The general pipeline of MS<sup>3</sup>PE:
 <p align="center">
-<img src="pipeline.png" width="666px" alt="pipeline">
+<img src="pipeline.png" width="888px" alt="pipeline">
 </p>
 
 ------
@@ -17,7 +18,7 @@ This repository contains the PyTorch implementation of our proposed framework MS
 First, set up the Python environment according to `requirements.txt`.
 
 ```
-# (Optional) create a virtual environment first
+# (Optional) create a virtual environment
 pip install -r requirements.txt
 ```
 
