@@ -38,6 +38,7 @@ Follow the **data repository** to download:
 Run the following script to train the model and generate predicted OB results:
 
 ```
+# PS: upzip isutils.zip and mtorl/models.zip
 # Check isutils/interactions.py for more interaction & encoding modes
 sh scripts/run_swinl.sh
 ```
