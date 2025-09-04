@@ -27,7 +27,7 @@ pip install -r requirements.txt
 Follow the **data repository** to download:
 
 - The synthetic **OB-FUTURE** dataset.
-- Two real-world subsets.
+- Two real-world subsets **OB-DIODE** and **OB-EntitySeg**.
 
 ------
 
@@ -52,8 +52,7 @@ sh scripts/run_swinl.sh
 
 ## Pre-trained Checkpoints
 
-Pre-trained checkpoints can be downloaded from the following links:
- 👉*Links  be updated soon.*
+Follow the **Data repository** to download the pre-trained checkpoints.
 
 ------
 
@@ -64,12 +63,12 @@ The evaluation code is modified from [MTORL](https://github.com/fengpanhe/MT-ORL
 ### Setup
 
 - Prepare the MATLAB–Python environment as in [MTORL](https://github.com/fengpanhe/MT-ORL).
-- Verified under **MATLAB 2022b**.
+- Our code is verified under **MATLAB 2022b**.
 
 ### Note
 
 The original test process evaluates edge probability thresholds from **0.01 to 0.99**.
- To save time, we evaluate only from **0.51 to 0.99**.
+ To save evaluation time, we evaluate only from **0.51 to 0.99**.
 
 ### Run evaluation
 
