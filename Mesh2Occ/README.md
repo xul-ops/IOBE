@@ -2,7 +2,7 @@
 
 
 
-## 1. Tool Overview
+## Tool Overview
 
 This repository contains two main components:
 
@@ -21,7 +21,7 @@ This repository contains two main components:
 
 
 
-## 2. **Blender-based Scene Generator**
+## **Blender-based Scene Generator**
  
 
 This part of the code benefits from the [3D-FUTURE ToolBox](https://github.com/3D-FRONT-FUTURE/3D-FUTURE-ToolBox).
@@ -46,7 +46,7 @@ python run_exrot_blender.py
 
 
 
-## 3. Mesh2OB
+## Mesh2OB
 
 This part of the code takes the camera projection matrix and mesh OBJ files as input, and outputs: occlusion boundary maps (OB), occlusion orientation maps (OO), etc. 
 
