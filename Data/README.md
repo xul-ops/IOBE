@@ -28,23 +28,22 @@ If you know a better free way to share these resources, please feel free to send
 
 ### Updated Evaluation
 
-We evaluated the updated real datasets using our models. The results for **OB-DIODE** and **OB-EntitySeg** are shown below:
+We evaluated the updated real datasets using our models. The results for updated **OB-DIODE** and updated **OB-EntitySeg** are shown below:
 
 #### OB-DIODE
 
 | Method | ODS  | OIS  | AP   |
 | ------ | ---- | ---- | ---- |
-| SWIN-L |      |      |      |
-| SWIN-B |      |      |      |
-| SWIN-S |      |      |      |
+| SWIN-L |  86.4    |  87.8    |  91.4    |
+| SWIN-B |  85.4    |  87.8    |  89.9    |
+| SWIN-S |  84.1    |  86.9    |  89.4    |
 
 #### OB-EntitySeg
 
 | Method | ODS  | OIS  | AP   |
 | ------ | ---- | ---- | ---- |
-| SWIN-L |      |      |      |
-| SWIN-B |      |      |      |
-| SWIN-S |      |      |      |
+| SWIN-L |  79.4    |  81.1    |  84.9    |
+| SWIN-B |  80.6    |  81.7    |  85.3    |
+| SWIN-S |  81.2    |  82.3    |  86.4    | 
 
-*Note: Numbers will be filled in once available.*
 
