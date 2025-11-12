@@ -1,5 +1,5 @@
 # IOBE
-Official implementation of the paper: Interactive Occlusion Boundary Estimation through Exploitation of Synthetic Data.
+Official implementation of the paper: Interactive Occlusion Boundary Estimation through Exploitation of Synthetic Data. [BMVC 2025](https://bmvc2025.bmva.org/proceedings/427/)
 
 This repository contains four sub-repositories:
 
@@ -12,10 +12,12 @@ Gmail: xulintaofr@gmail.com
 
 If our project is helpful for your research, please consider citing:
 ```bibtex
-@article{xu2024iobe,
-  title={Interactive occlusion boundary estimation through exploitation of synthetic data},
-  author={Xu, Lintao and Wang, Chaohui},
-  journal={arXiv preprint arXiv:2408.15038},
-  year={2024}
+@inproceedings{XU_2025_IOBE,
+author    = {Lintao XU and Chaohui Wang},
+title     = {Interactive Occlusion Boundary Estimation through Exploitation of Synthetic Data},
+booktitle = {36th British Machine Vision Conference 2025, {BMVC} 2025, Sheffield, UK, November 24-27, 2025},
+publisher = {BMVA},
+year      = {2025},
+url       = {https://bmva-archive.org.uk/bmvc/2025/assets/papers/Paper_427/paper.pdf}
 }
 
