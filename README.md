@@ -8,7 +8,7 @@ This repository contains four sub-repositories:
 3. **MS<sup>3</sup>PE** – Network, training, and evaluation code.
 4. **GUI** – GUI tool for interactive annotation.
 
-For occlusion boundary applications in depth estimation, please refer to the following resources: this work’s [supplementary material](https://bmvc2025.bmva.org/proceedings/427/), [P2ORM](https://github.com/tim885/P2ORM) and our [MoDOT](https://github.com/xul-ops/MoDOT)
+For occlusion boundary applications in depth estimation, please refer to the following resources: this work’s [supplementary material](https://bmvc2025.bmva.org/proceedings/427/), [P2ORM](https://github.com/tim885/P2ORM) and our [MoDOT](https://github.com/xul-ops/MoDOT).
 
 Gmail: xulintaofr@gmail.com
 
